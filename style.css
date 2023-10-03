@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    border: 0;
+
+}
+
+header {
+    background-image: url("banner-1.jpg");
+    background-size: cover;
+    background-position: right 0 bottom 50%;
+
+    
+  
+    padding-top: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 200px;
+    
+  
+   
+}
+
+
+footer {
+    background-image: url("banner-2.jpg");
+    background-size: cover;
+    background-position: right 0 bottom 50%;
+    
+    
+    padding-top: 500px;
+  
+}
+
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    color: aliceblue;
+}
+
+body {
+    text-align: center;
+}
+
+article {
+    background-size: cover;
+    
+    
+    padding-top: 100px;
+    padding-bottom: 100px;
+   padding-left: 400px;
+   padding-right: 400px;
+
+    text-align: center;
+}
+
+h1 {
+   
+    font-size: 50px;
+    margin-bottom: 50px;
+
+    line-height: 1.6;
+
+
+}
+
+h2 {
+   
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.bouton_1 {
+    display: inline-block;
+   
+    background-color:#efeff4;
+    color: #060606;
+    border:none;
+    border-radius:20px;
+    min-height:30px; 
+    min-width: 120px;
+
+    text-decoration: none;
+  }
+
+  .bouton_1:hover {
+    background-color:#002ead;
+    transition: 0.7s;
+}
+
+  .bouton_2 {
+    display: inline-block;
+    
+    background-color:#000000;
+    color: #ffffff;
+    border:none;
+    border-radius:20px;
+    min-height:30px; 
+    min-width: 120px;
+
+    text-decoration: none;
+
+    
+  }
+
+  .bouton_2:hover {
+    background-color:#002ead;
+    transition: 0.7s;
+}
+
+footer {
+    color: #ffffff; 
+}
+
+p.copyright {
+
+    background-color: #3f3333;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+article p {
+
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+header p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
